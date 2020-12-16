@@ -1,6 +1,9 @@
 ## BitMap2SVG
 
-[![GitHub issues](https://img.shields.io/github/issues/Inmessionant/BitMap2SVG?style=flat-square)](https://github.com/tfx2001/python-turtle-draw-svg/issues)[![GitHub forks](https://img.shields.io/github/forks/Inmessionant/BitMap2SVG?style=flat-square)](https://github.com/tfx2001/python-turtle-draw-svg/network)[![GitHub stars](https://img.shields.io/github/stars/Inmessionant/BitMap2SVG?style=flat-square)](https://github.com/tfx2001/python-turtle-draw-svg/stargazers)[![GitHub license](https://img.shields.io/github/license/tfx2001/python-turtle-draw-svg.svg?style=flat-square)](https://github.com/Inmessionant/BitMap2SVG/blob/master/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/Inmessionant/BitMap2SVG.svg?style=flat-square)](https://github.com/Inmessionant/BitMap2SVG/issues)
+[![GitHub forks](https://img.shields.io/github/forks/Inmessionant/BitMap2SVG.svg?style=flat-square)](https://github.com/Inmessionant/BitMap2SVG/network)
+[![GitHub stars](https://img.shields.io/github/stars/Inmessionant/BitMap2SVG.svg?style=flat-square)](https://github.com/Inmessionant/BitMap2SVG/stargazers)
+[![GitHub license](https://img.shields.io/github/license/Inmessionant/BitMap2SVG.svg?style=flat-square)](https://github.com/Inmessionant/BitMap2SVG/blob/master/LICENSE)
 
 
 
