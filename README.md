@@ -4,7 +4,7 @@
 
 🔥Original project address: https://github.com/tfx2001/python-turtle-draw-svg；
 
-🔥You can convert the bitmap to svg and then use the turtle library to draw it, and save it as an .eps file;
+🔥You can convert the bitmap to svg and then use the turtle library to draw it, and save it as an **.eps** file;
 
 
 
