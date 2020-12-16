@@ -12,13 +12,13 @@
 
 ### 🔥Input:
 
-![](D:\GitHub\BitMap2SVG\2.jpg)
+![](https://github.com/Inmessionant/BitMap2SVG/blob/main/2.jpg)
 
 
 
 ### 🔥Output:
 
-![](D:\GitHub\BitMap2SVG\result.png)
+![](https://github.com/Inmessionant/BitMap2SVG/blob/main/result.png)
 
 
 
