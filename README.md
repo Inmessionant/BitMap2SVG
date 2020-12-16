@@ -6,7 +6,7 @@
 
 🔥You can convert the bitmap to svg and then use the turtle library to draw it, and save it as an **.eps** file ;
 
-
+[![Stargazers over time](https://starchart.cc/Inmessionant/BitMap2SVG.svg)](https://starchart.cc/Inmessionant/BitMap2SVG)
 
 ## Demo
 
