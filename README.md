@@ -28,7 +28,7 @@
 
 
 
-**Default command**
+**Default command（Run main.py directly）**
 
 ```
 python main.py  2.jpg
